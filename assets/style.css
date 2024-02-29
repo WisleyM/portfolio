@@ -99,6 +99,7 @@ nav>ul {
   flex-direction: column;
 
 }
+
 #text_box>p {
   width: 30%;
 }
@@ -207,6 +208,7 @@ footer {
   display: flex;
   justify-content: center;
 }
+
 #contacts {
   display: flex;
   gap: 5rem;
