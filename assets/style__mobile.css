@@ -1,4 +1,4 @@
-@media (max-width: 767px) {
+@media (min-width: 530px; max-width: 767px) {
 
 
   * {
@@ -30,11 +30,14 @@
     color: white;
     padding-top: 6rem;
   }
+ 
+  #text_box>p {
+    width: 30%;
+  }
 
   p {
     font-size: 20px;
     color: white;
-    width: 80%;
     padding-top: 1rem;
   }
 
