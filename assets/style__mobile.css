@@ -70,7 +70,10 @@
     font-size: 24px;
     cursor: pointer;
   }
-
+  nav {
+    gap: 0.5rem;
+  }
+  
   .logo {
     width: 48px;
   }
